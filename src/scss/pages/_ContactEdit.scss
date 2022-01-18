@@ -1,0 +1,12 @@
+.contact-edit{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    form{
+        display: flex;
+        flex-direction: column;
+        *{
+            margin-bottom: 10px;
+        }
+    }
+}
